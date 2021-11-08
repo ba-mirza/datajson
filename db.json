@@ -1,9 +1,5 @@
 {
   "posts": [
-    "user": {
-      "authId": 1,
-      "author": "Alisher"
-    },
     {
       "postId": 1,
       "title": "Post 1",
